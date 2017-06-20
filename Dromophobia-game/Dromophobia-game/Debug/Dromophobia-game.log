@@ -1,0 +1,24 @@
+﻿  Source.cpp
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'GLint', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(116): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(120): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(181): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(192): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(193): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(193): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(216): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(223): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(225): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(281): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(284): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(286): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(314): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(315): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(316): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(289): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\behlulkeremsisman\documents\visual studio 2017\projects\dromophobia-game\dromophobia-game\source.cpp(530): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Dromophobia-game.vcxproj -> C:\Users\BehlulKeremSisman\Documents\Visual Studio 2017\Projects\Dromophobia-game\Debug\Dromophobia-game.exe
+  Dromophobia-game.vcxproj -> C:\Users\BehlulKeremSisman\Documents\Visual Studio 2017\Projects\Dromophobia-game\Debug\Dromophobia-game.pdb (Partial PDB)
