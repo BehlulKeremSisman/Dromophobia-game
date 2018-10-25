@@ -1,4 +1,4 @@
-----------------------------------------------# Dromophobia-game  --------------------------------------------------------
+---------------------------------------------------------------------# Dromophobia-game  ---------------------------------------------------------------
 Cross the streets and collect the coins.
 
 You are not allowed to cross streets in first 10 seconds. Do not get hit by the vehicles while you crossing the streets.
